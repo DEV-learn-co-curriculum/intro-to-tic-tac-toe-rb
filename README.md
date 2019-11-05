@@ -2,6 +2,15 @@
 
 ## Objectives
 
+Cool lesson bro
+
+<img src="http://placecorgi.com/260/180" />
+
+<script>
+  window.alert('Prince is a loser')
+</script>
+
+
 1. Learn about building Tic Tac Toe in Ruby.
 
 ## Introduction
